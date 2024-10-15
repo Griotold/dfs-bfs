@@ -1,4 +1,4 @@
-package io.conduktor.demos.dfsbfs.practice241010;
+package io.conduktor.demos.dfsbfs.practice241010.basic;
 // 4. 피보나치 재귀(메모이제이션)
 public class Fibonacci4 {
 

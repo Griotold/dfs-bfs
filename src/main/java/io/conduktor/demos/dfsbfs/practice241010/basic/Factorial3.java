@@ -1,4 +1,4 @@
-package io.conduktor.demos.dfsbfs.practice241010;
+package io.conduktor.demos.dfsbfs.practice241010.basic;
 // 3. 팩토리얼
 public class Factorial3 {
 

@@ -1,4 +1,4 @@
-package io.conduktor.demos.dfsbfs.practice241010;
+package io.conduktor.demos.dfsbfs.practice241010.basic;
 
 import java.util.ArrayList;
 import java.util.Scanner;

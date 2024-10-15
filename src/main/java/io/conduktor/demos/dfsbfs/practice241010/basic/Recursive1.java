@@ -1,4 +1,4 @@
-package io.conduktor.demos.dfsbfs.practice241010;
+package io.conduktor.demos.dfsbfs.practice241010.basic;
 
 // 1. 재귀함수(스택프레임)
 public class Recursive1 {
