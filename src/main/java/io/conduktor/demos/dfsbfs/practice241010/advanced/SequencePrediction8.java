@@ -17,7 +17,6 @@ public class SequencePrediction8 {
         if (dy[n][r] > 0) return dy[n][r];
         if (n == r || r == 0) return dy[n][r] = 1;
         else return dy[n][r] = combi(n - 1, r - 1) + combi(n - 1, r);
-
     }
 
     void dfs(int level, int sum) {
