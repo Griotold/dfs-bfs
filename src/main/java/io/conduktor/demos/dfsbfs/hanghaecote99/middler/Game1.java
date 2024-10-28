@@ -1,4 +1,4 @@
-package io.conduktor.demos.dfsbfs.hanghaecote99;
+package io.conduktor.demos.dfsbfs.hanghaecote99.middler;
 
 import java.util.Scanner;
 
