@@ -3,7 +3,7 @@ package io.conduktor.demos.dfsbfs.hanghaecote99.challenger;
 import java.io.*;
 import java.util.StringTokenizer;
 
-// 백준 : 11403 경로 찾기
+// 백준 : 11403 경로 찾기 - 플로이드 와샬
 public class SearchingPath1 {
 
     static int N;
