@@ -15,7 +15,7 @@ public class Immigration3 {
         while(left <= right) {
             long mid = (left + right) / 2;
             long complete = 0;
-            for (int i = 0; i < times.length; i++) {
+            for (int i = 0; i < interviewer; i++) {
                 complete += mid / times[i];
             }
             if (complete < n) {
